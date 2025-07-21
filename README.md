@@ -20,7 +20,7 @@ A Machine Learning powered web application that recommends the top 5 suitable cr
 
 🔐 Session-based access control
 
-
+<br>
 
 🧠 Technologies Used
 🎯 Machine Learning
