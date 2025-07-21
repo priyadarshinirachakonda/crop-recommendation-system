@@ -4,7 +4,7 @@
 
 A Machine Learning powered web application that recommends the top 5 suitable crops and a fertilizer suggestion based on user-input environmental and soil conditions. It empowers farmers with data-driven decisions to optimize their harvest.
 
-
+<br>
 
 🚀 Features
 
