@@ -1,9 +1,13 @@
-# crop-recommendation-system
+#🌾 crop-recommendation-system
 
-🌾 Smart Crop Recommendation System
+Smart Crop Recommendation System
+
 A Machine Learning powered web application that recommends the top 5 suitable crops and a fertilizer suggestion based on user-input environmental and soil conditions. It empowers farmers with data-driven decisions to optimize their harvest.
 
+
+
 🚀 Features
+
 ✅ User login and signup (secure with hashed passwords)
 
 🌱 Top 5 crop recommendations using a trained ML model
@@ -15,6 +19,8 @@ A Machine Learning powered web application that recommends the top 5 suitable cr
 🖥️ Simple and clean UI with HTML, CSS, and Bootstrap
 
 🔐 Session-based access control
+
+
 
 🧠 Technologies Used
 🎯 Machine Learning
